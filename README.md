@@ -3,7 +3,7 @@
 Written by -> Sarun Sathis
 
 # DISCLAIMER :
-The author does not take responsiblity for any loss or damage of any of the components used. These codes are wriiten only for fun activity and not intended for regular uasges. The users are requested to flow the normal norms and safety measure before testing this model in dangerous situations. This project is still in the development stage and cannot yet replace the existing multimeter. Users are free to make changes to code or even suggest codes. This projects has been tested on TinkerCAD. BE SAFE AND HAVE FUN.
+The author does not take responsiblity for any loss or damage of any of the components used. These codes are wriiten only for fun activity and not intended for regular uasges. The users are requested to flow the normal norms and safety measure before testing this model in dangerous situations. This project is still in the development stage and cannot yet replace the existing models in market. Users are free to make changes to code or even suggest codes. This projects has been tested on TinkerCAD. BE SAFE AND HAVE FUN.
 
 # COMPONENTS USED :
 ESP8266 nodeMCU, relays (according to connection type), temperature sesors.
